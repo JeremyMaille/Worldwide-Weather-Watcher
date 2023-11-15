@@ -1,5 +1,11 @@
 # Worldwide-Weather-Watcher
+![image](https://github.com/JeremyMaille/Worldwide-Weather-Watcher/assets/130240376/8061b7dd-4ad8-408d-ad17-f6de92d0ce0c)
 Station météo embarquée chargée de mesurer les paramètres influant sur la formation de cyclones ou autres catastrophes naturelles.
+## Notice technique
+### Diagramme flux d'information
+![image](https://github.com/JeremyMaille/Worldwide-Weather-Watcher/assets/130240376/ed0cbb80-ee8d-4847-bdd0-8012f34c4238)
+![image](https://github.com/JeremyMaille/Worldwide-Weather-Watcher/assets/130240376/5407192d-3b29-40a8-b3ef-1906e04c5255)
+### Diagramme des différentes connexion opérées
 ## Modélisation du projet
 ### Diagramme Cas d'utilisation 
 ![image](https://github.com/JeremyMaille/Worldwide-Weather-Watcher/assets/130240376/f69f4ebd-7f35-430f-9199-5927fa6b6f9d)
