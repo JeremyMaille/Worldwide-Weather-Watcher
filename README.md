@@ -3,7 +3,6 @@
 ![image](https://github.com/JeremyMaille/Worldwide-Weather-Watcher/assets/130240376/8061b7dd-4ad8-408d-ad17-f6de92d0ce0c)
 ## Notice technique
 ### Diagramme flux d'information
-![image](https://github.com/JeremyMaille/Worldwide-Weather-Watcher/assets/130240376/ed0cbb80-ee8d-4847-bdd0-8012f34c4238)
 ![image](https://github.com/JeremyMaille/Worldwide-Weather-Watcher/assets/130240376/5407192d-3b29-40a8-b3ef-1906e04c5255)
 ### Diagramme des différentes connexion opérées
 ## Modélisation du projet
