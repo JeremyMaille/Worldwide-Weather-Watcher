@@ -1,6 +1,6 @@
 # Worldwide-Weather-Watcher
+## Station météo embarquée chargée de mesurer les paramètres influant sur la formation de cyclones ou autres catastrophes naturelles.
 ![image](https://github.com/JeremyMaille/Worldwide-Weather-Watcher/assets/130240376/8061b7dd-4ad8-408d-ad17-f6de92d0ce0c)
-Station météo embarquée chargée de mesurer les paramètres influant sur la formation de cyclones ou autres catastrophes naturelles.
 ## Notice technique
 ### Diagramme flux d'information
 ![image](https://github.com/JeremyMaille/Worldwide-Weather-Watcher/assets/130240376/ed0cbb80-ee8d-4847-bdd0-8012f34c4238)
